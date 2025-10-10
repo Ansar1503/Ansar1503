@@ -29,7 +29,7 @@ I love creating clean, scalable web applications and exploring modern technologi
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/muhammed-ansar-443936220)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammed-ansar-443936220)  
 - 📧 Email: muhammedansarma1503@gmail.com  
 - 🐙 [GitHub](https://github.com/Ansar1503)
 
