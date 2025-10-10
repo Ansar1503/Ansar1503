@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Anzaer Anu
 
-<!--
-**Ansar1503/Ansar1503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 MERN Stack Developer | 🎓 B.Com Graduate | ⚖️ Building Justice Hub  
+I love creating clean, scalable web applications and exploring modern technologies.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- **Frontend:** React, Redux, Tailwind CSS
+- **Backend:** Node.js, Express, MongoDB
+- **Database:** PostgreSQL, MongoDB
+- **Other:** TypeScript, Clean Architecture, Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Featured Projects
+- 🛍️ [Bagify - E-commerce for Bags](https://github.com/anzaeranu/bagify)
+- ⚖️ [Justice Hub - Lawyer Booking Platform](https://github.com/anzaeranu/justice-hub)
+
+## 📫 Connect With Me
+- 💼 [LinkedIn](https://linkedin.com/in/anzaeranu)
+- 📧 Email: yourname@gmail.com
+- 🐙 [GitHub](https://github.com/anzaeranu)
+
+⭐️ _“Building one project at a time, learning for a lifetime.”_
