@@ -94,7 +94,7 @@ A full-stack lawyer-client booking system built from the ground up with **Clean 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-[🖥️ Live Demo](https://justicehub.site) · [⚙️ Backend](https://github.com/Ansar1503/Justice-Hub-Server) · [🎨 Frontend](https://github.com/Ansar1503/Justice-Hub-UI)
+[🖥️ Live Demo]([https://justicehub.site](https://justiceui2.vercel.app/)) · [⚙️ Backend](https://github.com/Ansar1503/Justice-Hub-Server) · [🎨 Frontend](https://github.com/Ansar1503/Justice-Hub-UI)
 
 ---
 
