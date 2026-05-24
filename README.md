@@ -94,7 +94,7 @@ A full-stack lawyer-client booking system built from the ground up with **Clean 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-[🖥️ Live Demo]((https://justiceui2.vercel.app/)) · [⚙️ Backend](https://github.com/Ansar1503/Justice-Hub-Server) · [🎨 Frontend](https://github.com/Ansar1503/Justice-Hub-UI)
+[🖥️ Live Demo](https://justiceui2.vercel.app) · [⚙️ Backend](https://github.com/Ansar1503/Justice-Hub-Server) · [🎨 Frontend](https://github.com/Ansar1503/Justice-Hub-UI)
 
 ---
 
@@ -116,17 +116,6 @@ Full-featured e-commerce application with product management, cart, wishlist, or
 
 ---
 
-### 🏨 Paradise Resort — Booking Platform
-> *Full-stack, typed, and properly validated.*
-
-Resort booking platform with admin dashboard, search, sort, pagination, and an end-to-end booking workflow.
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=flat-square&logoColor=white)
-
----
 
 ## `$ cat ./stats`
 
